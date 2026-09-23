@@ -1,0 +1,4 @@
+Nombre del estudiante: Juan Jaime Hernandez
+Fecha: 22/09/2026
+Objetivo: Aprender a utilizar Git y GitHub mediante la creación de un repositorio, una rama, commits y un Pull Request.
+Pull Request: Es una solicitud que permite proponer cambios de una rama para que sean revisados y posteriormente integrados a otra rama, normalmente main.
